@@ -1,6 +1,8 @@
 #  vue-sneakers
 
-This template should help get you started developing with Vue 3 in Vite.
+Проект на Vue3. Разработка интернет магазина кроссовок. Composition API.
+
+Стек: HTML, JS, TailWind, Vue3, VueRouter, axios, vite.
 
 ## Recommended IDE Setup
 
